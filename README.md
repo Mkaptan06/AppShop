@@ -1,5 +1,6 @@
 # Mini Katalog Uygulaması
 Proje adı: AppShop
+
 Bu proje, Flutter ile temel seviyede mobil uygulama geliştirme sürecini pekiştirmek amacıyla üretilmiş kart tabanlı bir **Mini Katalog Uygulaması**dır.
 
 Flutter Sürümü: 3.41.9
